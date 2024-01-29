@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gerwius
 - 👀 I’m interested in AI, machine learning, robotics, physics, math and reading
-- 🌱 I’m currently learning proffesional coding using c++
+- 🌱 I’m currently learning proffesional coding using C++ and Swift
 
 <!---
 Gerwius/Gerwius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
